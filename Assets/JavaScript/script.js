@@ -27,8 +27,8 @@ questionText.textContent= questionArray [qIndex].question
 questionArray [qIndex].choices; 
 for(let qIndex = 0; qIndex < 5; qIndex++) {
 console.log("nextQuestion")
-}
-}
+}}
+
 startBtn.addEventListener("click", function() {
     startTimer()
     displayQuestions()
