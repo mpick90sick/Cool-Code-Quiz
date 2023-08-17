@@ -18,4 +18,4 @@ This website is to be the coolest, most hip coding quiz to keep you on your A ga
 
 Github: https://github.com/mpick90sick/Cool-Code-Quiz
 
-Website: 
+Website: https://mpick90sick.github.io/Cool-Code-Quiz/
