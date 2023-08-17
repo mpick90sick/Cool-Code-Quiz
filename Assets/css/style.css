@@ -13,9 +13,11 @@ body {
     font-weight: 100;
     color: #fff;
     background: #73005C;
+    border-radius: 8px;
 
 }
 
 .hide {
     display: none
 }
+
